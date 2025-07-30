@@ -228,26 +228,6 @@ npm run build
 3. Commit changes: `git commit -m 'Add feature'`
 4. Push to branch: `git push origin feature-name`
 5. Submit a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **React Team** for the amazing framework
-- **Bootstrap** for the responsive CSS framework
-- **Chart.js** for the beautiful charts
-- **Framer Motion** for smooth animations
-- **React Icons** for the icon library
-
-## 📞 Support
-
-For support and questions:
-- Create an issue in the repository
-- Email: support@emspro.com
-- Documentation: [docs.emspro.com](https://docs.emspro.com)
-
 ---
 
 **Made with ❤️ by [Your Name]**
